@@ -26,7 +26,7 @@ wiki = wikipediaapi.Wikipedia(
 )
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Function to perform sentiment analysis
 def analyze_sentiment(text):
